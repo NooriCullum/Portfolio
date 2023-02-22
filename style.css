@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(blue, turquoise);
+    text-align: center;
+}
+.line{
+    height: 6px;
+    width: 200px;
+    background-color: black;
+    margin: auto;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+#slide1{
+    Background-color: violet;
+}
+#slide1 img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
